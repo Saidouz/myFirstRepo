@@ -1,6 +1,2 @@
-<<<<<<< HEAD
 
 I got more some changes of course
-=======
-There is a conflict 
->>>>>>> MergConfl
